@@ -20,7 +20,7 @@
   "sovereign_endpoint": "https://pewpi-infinity.github.io/sovereign-interface/",
   "crown_index": "https://pewpi-infinity.github.io/infinity-crown-index/",
   "auto_discovery": true,
-  "wired_at": "2026-02-17T08:21:23",
+  "wired_at": "2026-02-17T08:23:38",
   "links": {
     "self": "https://pewpi-infinity.github.io/infinity-brain-029/",
     "github": "https://github.com/pewpi-infinity/infinity-brain-029",
